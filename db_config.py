@@ -30,7 +30,7 @@ passenger = {
 }
 
 
-# conn.tourism.package.insert_one(package)
+#conn.tourism.package.insert_one(package)
 # conn.tourism.passenger.insert_one(passenger)
 
 
